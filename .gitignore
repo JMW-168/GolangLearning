@@ -1,0 +1,15 @@
+# Go build
+bin/
+*.exe
+*.out
+*.test
+
+# Go modules
+vendor/
+
+# IDE & system
+.vscode/
+.DS_Store
+
+# Environment
+.env
